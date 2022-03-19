@@ -1,9 +1,8 @@
-<p class="center">
-    <img src="https://i.imgur.com/xqEQybm.png" width="300" >
-    
+<p align="center">
+    <img align="center" src="https://i.imgur.com/xqEQybm.png" width="300" >
 </p>
-<h1 class="center"> g;ode Project </h1>
-<h2 class="center">Turning gibberish into meaningful words.</h2>
+<h1 align="center"> g;ode Project </h1>
+<p align="center">Turning gibberish into meaningful words.</h2>
 
 ## What is g;ode?
 
@@ -24,9 +23,3 @@ Currently, We have 4 active project.
 ## Contributors
 
 * [gxjakkap (Jakkaphat "Gunt" Chalermphanaphan)](https://github.con/gxjakkap)
-
-<style>
-    .center {
-    text-align: center;
-}
-</style>
