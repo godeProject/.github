@@ -12,7 +12,7 @@ g;ode is a project runs by [Jakkaphat "Gunt" Chalermphanaphan](https://github.co
 
 Currently, We have 4 active project.
 
-* **[godeweb](https://github.com/godeProject/godeweb):** [gode.app](https://www.gode.app) website.
+* **[gode.app](https://github.com/godeProject/gode.app):** [gode.app](https://www.gode.app) website.
 
 * **[godeAPI](https://github.com/godeProject/godeAPI):** API which powers [gode.app](https://www.gode.app) .
 
