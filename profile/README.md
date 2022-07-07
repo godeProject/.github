@@ -20,6 +20,8 @@ Currently, We have 4 active project.
 
 * **[gode.js](https://github.com/godeProject/gode.js):** Node.js package.
 
+* **[pygode](https://github.com/godeProject/pygode):** Python package.
+
 ## Contributors
 
 * [gxjakkap (Jakkaphat "Gunt" Chalermphanaphan)](https://github.con/gxjakkap)
