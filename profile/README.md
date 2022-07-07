@@ -6,7 +6,7 @@
 
 ## What is g;ode?
 
-g;ode is a project runs by [Jakkaphat "Gunt" Chalermphanaphan](https://github.con/gxjakkap) which aims to help Thai people who struggle with dual-layout keyboard by reverting their mistakes. Accidentally typed รื ะ้ำ ไพนืเ สฟันีะ? Don't worry, we can turn it back.
+g;ode is a project runs by [Jakkaphat "Gunt" Chalermphanaphan](https://github.com/gxjakkap) which aims to help Thai people who struggle with dual-layout keyboard by reverting their mistakes. Accidentally typed รื ะ้ำ ไพนืเ สฟันีะ? Don't worry, we can turn it back.
 
 ## What we have done?
 
